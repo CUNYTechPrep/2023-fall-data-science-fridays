@@ -36,8 +36,8 @@ Carlos' Office Hours:
 * Thursday’s 7-8pm
 
 Georgios' Office Hours:  
-* Fridays 11:30 AM  - 1:30 PM
-* Fridays 3:00 PM  - 4:00 PM
+* Fridays 11:30 AM - 12:30 PM
+* Fridays 03:00 PM - 04:00 PM
 
 Steven's Office Hours:  
 * Mondays 12:00 PM - 1:00 PM
