@@ -7,8 +7,7 @@
 0. Getting started with jupyter notebook.
 0. Live coding lecture
 0. Break
-0. [Setting up github.](https://github.com/CUNYTechPrep/2023-fall-DS-dev/blob/main/2023-curriculum/Week-01-Pandas/setting-up-github.md) 
-0. __CARLOS, YOU HAVE TO CHANGE THE LINK ABOVE TO LINK TO YOUR REPO LOCATION OF THE setting-up-github.md FILE__
+0. [Setting up github.](https://github.com/CUNYTechPrep/2023-fall-data-science-fridays/blob/main/Week-01-Pandas/setting-up-github.md) 
 0. Exercise in breakout rooms
 0. Weekly feedback form. https://forms.gle/nTYVYQjmcqDj4aAb7
 
