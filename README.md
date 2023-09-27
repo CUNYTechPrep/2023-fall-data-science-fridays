@@ -21,13 +21,13 @@ You have HW almost every week. HW is due anytime before the next class.  You hav
 	* TA Georgios Ioannou (12:30)
 	* TA Steven Smith (3:30)
 * Carlos Tavarez (Tuesdays)
-	* TA Daniel St. Vincent
+	* TA Georgios Ioannou
 
 
-## Office Hours
+## Office Hours - DM us and we will send a private meeting link.
 _You are allowed to go to anyone's office hours.  Meaning, you are not limited to just your TA and your instructors office hours._
 
-Zack's Office Hours:  DM me on Slack and I will send you a meeting link. 
+Zack's Office Hours:  
 * Tuesday's 2-3pm
 * Thursday's 1-2pm
 
@@ -36,15 +36,12 @@ Carlos' Office Hours:
 * Thursday’s 7-8pm
 
 Georgios' Office Hours:  
-* Fridays 11:30 AM - 12:30 PM
-* Fridays 03:00 PM - 04:00 PM
+* Fridays 11:30 AM  - 12:30 PM
+* Fridays 3:00 PM  - 4:00 PM
 
 Steven's Office Hours:  
 * Mondays 12:00 PM - 1:00 PM
 * Tuesdays 12:00 PM - 1:00 PM
-
-Daniel's Office Hours:  
-* Friday 10pm-Midnight (yes really that late)
 
 ### [Lecture Recordings](https://docs.google.com/document/d/1AGQ7YMSnJGvtO_NpmLhKqAGm8iQsnCh6_gHeNh5-MbU/edit)
 _Remember, if you cannot access this lecture recordings doc, that means you are not using the email account you gave us.  Only the email address you associated with CTP has access to this doc._
@@ -55,18 +52,18 @@ _Note, these are subject to change based on class needs and instructors discreti
 * Week 01 [Aug 29 - Sep 01]: Pandas 
 * Week 02 [Sep 05 - 08]:  Data Visualization, EDA, and Github
 * Week 03 [Sep 12 - 15]: Intro to ML
-* Week 04 [Sep 19 - 22]: Regression
-* Week 05 [Sep 26 - 29]: Random Forest
-* Week 06 [Oct 03 - 06]: Image Classification
+* Week 04 [Sep 19 - 22]: CC, Project Ideation, AI
+* Week 05 [Sep 26 - 29]: Dashboards
+* Week 06 [Oct 03 - 06]: Regression
 * __Week XX [Oct 10 - 13] NO CLASS THIS WEEK__
 * Week 07 [Oct 17 - 20]: NLP
-* Week 08 [Oct 24 - 27]: Data Visualization
-* Week 09 [Oct 31 - Nov 3]: AB Testing
-* Week 10 [Nov 07 - 10]: Streamlit Web Apps
-* Week 11 [Nov 14 - 17]: Neural Networks
+* Week 08 [Oct 24 - 27]: TBD
+* Week 09 [Oct 31 - Nov 3]: Neural Networks 1
+* Week 10 [Nov 07 - 10]: Neural Networks 2
+* Week 11 [Nov 14 - 17]: __IN PERSON__ - NN part 3 + Project Time
 * __Week XX [Nov 21 - 24] NO CLASS THIS WEEK__
-* Week 12 [Nov 28 - Dec 01]: [TBD] 
-* Week 13 [Dec 05 - 08]: TBD
+* Week 12 [Nov 28 - Dec 01]: __IN PERSON__ - NN part 4 + Project Time
+* Week 13 [Dec 05 - 08]: In-Class demos and Project Time 
 
 
 
