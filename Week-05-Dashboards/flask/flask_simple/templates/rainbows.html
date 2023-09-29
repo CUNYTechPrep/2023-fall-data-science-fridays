@@ -1,0 +1,35 @@
+<html>
+<head>
+<style> 
+body {
+      overflow: auto;
+    }
+.square {
+      width: 20px;
+      height: 20px;
+      border: 0.1px solid white;
+      float: left;
+    }
+little_font {
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  font-size: 10px;
+}
+
+.dist {
+    float: left;
+    border: 0.1px solid white;
+    }
+
+</style>
+<title>Fun With Flask</title>
+</head>
+<body>
+    {% for i in range(0, 360) %}
+        <div class="square", 
+        style="background-color:hsl( {{i}} , 100%, 50%);"> 
+            <little_font> {{ i }} </little_font>    
+        </div>
+    {%endfor%}
+</body>
+</html>  
