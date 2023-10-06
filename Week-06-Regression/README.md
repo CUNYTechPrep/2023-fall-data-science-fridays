@@ -2,6 +2,15 @@
 
 ## Reminder: NO CLASS NEXT WEEK [Oct 3 and Oct 6]
 
+
+## Update your fork:
+
+```
+    git fetch upstream
+    git merge upstream/main
+    git push
+```
+
 ### Agenda
 0. Remind me to start recording
 0. Review last weeks HW
@@ -9,6 +18,8 @@
 0. Lecture Coding
 0. Break
 0. TEAM Breakout Rooms
+
+
 
 ### Branch and contribute to our new python CTP-Library
 * [CTPLIB Repo](https://github.com/zd123/CTPLIB)
