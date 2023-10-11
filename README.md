@@ -56,15 +56,14 @@ _Note, these are subject to change based on class needs and instructors discreti
 * Week 05 [Sep 26 - 29]: Dashboards
 * Week 06 [Oct 03 - 06]: Regression
 * __Week XX [Oct 10 - 13] NO CLASS THIS WEEK__
-* Week 07 [Oct 17 - 20]: NLP
-* Week 08 [Oct 24 - 27]: TBD
+* Week 07 [Oct 17 - 20]: Decision Trees / Random Forest 
+* Week 08 [Oct 24 - 27]: NLP
 * Week 09 [Oct 31 - Nov 3]: Neural Networks 1
 * Week 10 [Nov 07 - 10]: Neural Networks 2
-* Week 11 [Nov 14 - 17]: __IN PERSON__ - NN part 3 + Project Time
+* Week 11 [Nov 14 - 17]: __IN PERSON__ - CC + Project Time [No Lecture]
 * __Week XX [Nov 21 - 24] NO CLASS THIS WEEK__
-* Week 12 [Nov 28 - Dec 01]: __IN PERSON__ - NN part 4 + Project Time
-* Week 13 [Dec 05 - 08]: In-Class demos and Project Time 
-
+* Week 12 [Nov 28 - Dec 01]: __IN PERSON__ - Project Demos + Project Time [No Lecture]
+* Week 13 [Dec 05 - 08]: Final Project Demos and Curriculum Review
 
 
 ## Detailed Instructions For Submitting HWs
