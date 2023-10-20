@@ -66,6 +66,21 @@ _Note, these are subject to change based on class needs and instructors discreti
 * Week 13 [Dec 05 - 08]: Final Project Demos and Curriculum Review
 
 
+
+## In-Person Classes Details
+* Week 11 [Nov Tue 11/14 - Fri 11/17]
+* __Week XX [Nov 21 - 24] NO CLASS THIS WEEK__
+* Week 12 Week 12 [Nov Tue 11/28 - Dec Fri 12/01]
+
+All of our in-person classes this semester will held at the [Google Community Classrooms @Pier 57](https://pier57nyc.com/community-spaces/community-classrooms/) in the **Daffodil Classroom**.
+- Address: [25 11th Ave New York, NY 10011](https://maps.app.goo.gl/wfp7hfSLok3i6Rsb9)  (On the far west side, in Chelsea-ish // Approx 11th AVE and 15th Street)
+- Logistics: Students are to arrive 15 mins early.  No check-in needed, classes will be open upon arrival.
+- Professionalism: please review our guide ([Industry Partner Interaction: Student Guide](https://docs.google.com/document/d/1_2c9joKkfP4RYM6_tIwWp8ngyeyndDxvVQFMFu0AN4w/edit)) on expectations on how to interact with CTP industry partners!
+- Entrance: Enter through the doors between West Side Highway and 15th Street directly adjacent to the City Winery.
+
+![map](Week-07-Decision-Trees-n-RandomForest/data/Pier-57-Map.png)
+
+
 ## Detailed Instructions For Submitting HWs
 You have HW almost every week. HW is due anytime before the next class.  You have pre-class work and post-class work.  
 
