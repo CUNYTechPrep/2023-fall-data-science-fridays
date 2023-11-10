@@ -15,6 +15,7 @@ BE PROFESSIONAL, DRESS NICE. please review our guide ([Industry Partner Interact
 
 ### ANNOUCEMENTS
 0. Remind me to start recording.
+0. You must have something to demo on Fri 12/01  
 0. If you land a job, you have to [fill out this form](https://forms.gle/iCHvMDLAvvdJYRpd7).  
 0. **NEXT CLASS IN PERSON!!** Address and info above.
 
