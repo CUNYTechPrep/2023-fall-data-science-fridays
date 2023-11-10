@@ -1,0 +1,26 @@
+<html>
+<head>
+<style> 
+body {
+      overflow: auto;
+    }
+
+.dist {
+    float: left;
+    border: 0.05px solid white;
+    }
+</style>
+<title>Fun With Flask</title>
+</head>
+
+<body>
+    {% for num in list_of_numbs %}
+        <div class="dist", style="
+            background-color:black; 
+            width: {{num / 20}}px; 
+            height:{{num}}px;
+            ">
+        </div>
+    {%endfor%}
+</body>
+</html>  

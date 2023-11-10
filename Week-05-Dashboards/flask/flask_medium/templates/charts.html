@@ -1,0 +1,19 @@
+<!doctype html>
+<html>
+<body style="font-family:arial, sans-serif">
+    <p>Python and HTML code to produce this chart and page provided by
+        <a href="https://towardsdatascience.com/web-visualization-with-plotly-and-flask-3660abf9c946">  Alan Jones via their tutorial 
+        </a> 
+    </p>
+    <h1>{{header}}</h1>
+    <h6><a href="/">Return to index page</a></h6>
+    <div id="chart" class="chart"></div>
+    <div>{{description}}</div>
+</body>
+
+<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+<script type="text/javascript">
+    var graphs = {{graphJSON | safe}};
+    Plotly.plot('chart',graphs,{}); 
+</script>
+</html>
