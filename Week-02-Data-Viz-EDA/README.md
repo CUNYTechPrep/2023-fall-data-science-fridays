@@ -45,7 +45,7 @@ Same CTP behavioral rules apply.  TLDR; Any non professional behavior will be el
 	* `git fetch upstream` 
 0. Merge/download the newly added files.
 	*  `git merge upstream/main`
-	* If a crazy screen comes up that looks like this, just hit `:q` then enter to close it and you should be fine.  [image here]![enter image description here](https://github.com/zd123/images-for-class/blob/main/forking-image-instructions/98-strange-screen.png?raw=true). Just hit `:q` then enter on your keyboard.  It should close that window. 
+	* If a crazy screen comes up that looks like this, just hit `:wq` then enter to close it and you should be fine.  [image here]![enter image description here](https://github.com/zd123/images-for-class/blob/main/forking-image-instructions/98-strange-screen.png?raw=true). Just hit `:q` then enter on your keyboard.  It should close that window. 
 0. Push the new downloaded files into your repo. 
 	* `git push`
 
